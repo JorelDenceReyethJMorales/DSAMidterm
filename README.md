@@ -61,4 +61,4 @@ Once the development server is running, the web server address will be displayed
 - Press h and Enter then Press o and Enter to automatically open it in your browser.
 
 
-**that's it! You've successfully set up ReactJS and started your development server. Now you're ready to begin building your web application!**
+**That's it! You've successfully set up ReactJS and started your development server. Now you're ready to begin building your web application!**
