@@ -63,4 +63,4 @@ npm run dev  # Start the development server
 Once the development server is running, the web server address will be displayed in the terminal. You can:
 
 - Copy the URL and paste it into your browser, or
-- Press h and Enter to automatically open it in your browser.
+- Press h and Enter then Press o and Enter to automatically open it in your browser.
