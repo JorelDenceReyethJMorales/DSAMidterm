@@ -17,23 +17,26 @@ You will need to know:
 
 ## Installation
 
-1. You will need a text editor, and I recommend **VS Code**. You can get it from [VS Code URL].
-2. You will also need to download **Node.js** from [Node.js URL].
+1. You will need a text editor, and I recommend **VS Code**. You can get it from [VS Code](https://code.visualstudio.com/).
+2. You will also need to download **Node.js** from [Node.js](https://nodejs.org/en).
 
 **Node.js** is a backend JavaScript runtime environment that executes JavaScript code outside of a web browser.
 
 ## ReactJS Setup
 
 ### Step 1: Create a Project Folder
+
 In VS Code, create a project folder.
 
 ### Step 2: Open the Terminal
+
 1. Go to the hamburger menu at the top of VS Code.
 2. Click on **Terminal**.
 3. Click **New Terminal**.
 4. Change it to **Command Prompt**.
 
 ### Step 3: Create the Project
+
 Run the following command in your terminal:
 
 ```bash
@@ -43,3 +46,4 @@ You can change the project name to my-react-app or choose a name of your choice.
 
 - Select **React** for the framework.
 - Select **JavaScript** for the variant.
+```
