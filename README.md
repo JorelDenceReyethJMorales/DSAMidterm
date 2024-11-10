@@ -1,10 +1,5 @@
 # React JS
-
-React is a JavaScript **library**, not a **framework**, that is used to easily build and arrange user interfaces for web applications.
-
-React focuses on building a web application using these things called **components**. A component is a self-contained section of code that functions as reusable building blocks (it has sections of reusable JavaScript and HTML code).
-
-React uses a syntax extension of JavaScript known as **JSX (JavaScript XML)**. JSX allows you to write HTML-like code within your JavaScript files.
+React is a JavaScript **library**, not a **framework**, that helps you build and organize user interfaces for web applications. It works by using **components**, which are self-contained pieces of code that combine reusable JavaScript and HTML. React also uses **JSX (JavaScript XML)**, a syntax that allows you to write HTML-like code directly inside your JavaScript files, making it easier to create and manage web pages.
 
 ## Requirements
 
