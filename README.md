@@ -39,6 +39,8 @@ Run the following command in your terminal:
 
 ```bash
 npm create vite@latest  
+```
+```bash
 ?Project name >> vite-project
 ```
 You can change the project name to my-react-app or choose a name of your choice.
