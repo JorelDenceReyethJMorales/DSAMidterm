@@ -47,16 +47,20 @@ You can change the project name to my-react-app or choose a name of your choice.
 
 ### Step 4: Install Dependencies and Run the Server
 After creating the project, you need to install dependencies and start the development server. Follow these steps:
-1.Change the directory to your newly created project:
+1. Change the directory to your newly created project:
 ```bash
 cd my-react-app  # Change the directory to where your project is located    
 ```
-2.Install all required dependencies:
+2. Install all required dependencies:
 ```bash
 npm install  # Install necessary dependencies
 ```
-3.Run the development server:
+3. Run the development server:
 ```bash
 npm run dev  # Start the development server
 ```
-4.Once the server starts, it will show you the local web address. You can either copy this address and open it in a browser, or press h followed by Enter to open the browser directly. You can also press o and Enter to open the app in your browser.
+### Step 5: Open the Web Application
+Once the development server is running, the web server address will be displayed in the terminal. You can:
+
+- Copy the URL and paste it into your browser, or
+- Press h and Enter to automatically open it in your browser.
