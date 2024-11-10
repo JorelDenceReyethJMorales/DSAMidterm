@@ -40,10 +40,23 @@ Run the following command in your terminal:
 ```bash
 npm create vite@latest  
 ```
-```bash
-?Project name >> vite-project
-```
 You can change the project name to my-react-app or choose a name of your choice.
 
 - Select **React** for the framework.
 - Select **JavaScript** for the variant.
+
+### Step 4: Install Dependencies and Run the Server
+After creating the project, you need to install dependencies and start the development server. Follow these steps:
+1.Change the directory to your newly created project:
+```bash
+cd my-react-app  # Change the directory to where your project is located    
+```
+2.Install all required dependencies:
+```bash
+npm install  # Install necessary dependencies
+```
+3.Run the development server:
+```bash
+npm run dev  # Start the development server
+```
+4.Once the server starts, it will show you the local web address. You can either copy this address and open it in a browser, or press h followed by Enter to open the browser directly. You can also press o and Enter to open the app in your browser.
