@@ -6,8 +6,6 @@ React focuses on building a web application using these things called **componen
 
 React uses a syntax extension of JavaScript known as **JSX (JavaScript XML)**. JSX allows you to write HTML-like code within your JavaScript files.
 
-React also utilizes a **Virtual DOM**. The Virtual DOM is a lightweight version of the real DOM of a web page, which can track any changes made to the Virtual DOM and only apply those specific changes to the real DOM without needing to refresh the entire web page.
-
 ## Requirements
 
 You will need to know:
@@ -17,8 +15,8 @@ You will need to know:
 
 ## Installation
 
-1. You will need a text editor, and I recommend **VS Code**. You can get it from [VS Code](https://code.visualstudio.com/).
-2. You will also need to download **Node.js** from [Node.js](https://nodejs.org/en).
+1. You will need a text editor, and I recommend [VS Code](https://code.visualstudio.com/).
+2. You will also need to download [Node.js](https://nodejs.org/en).
 
 **Node.js** is a backend JavaScript runtime environment that executes JavaScript code outside of a web browser.
 
@@ -40,10 +38,10 @@ In VS Code, create a project folder.
 Run the following command in your terminal:
 
 ```bash
-npm create vite@latest
+npm create vite@latest  ```bash exit
 
 You can change the project name to my-react-app or choose a name of your choice.
 
 - Select **React** for the framework.
 - Select **JavaScript** for the variant.
-```
+
